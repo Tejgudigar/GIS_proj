@@ -35,4 +35,4 @@ Follow these steps to install QGIS on your system:
 2. Open QGIS.
 3. Use `File -> Open Project` to open the `ghj.qgz` file located in this repository.
 
-Contact For questions, reach out to tejaswinigudigar6@gmail.com
+Contact For questions, reach out to tejaswinigudigar6@gmail.com/akshathahebbar46@gmail.com
